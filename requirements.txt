@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+ipykernel
+psycopg2-binary
+sqlalchemy
+matplotlib
